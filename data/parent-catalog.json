@@ -1,0 +1,250 @@
+{
+  "parents": [
+    {
+      "id": "rehabilitamosedificios",
+      "brand": "Rehabilitamos Edificios",
+      "domain": "https://rehabilitamosedificios.es",
+      "servicios": [
+        {
+          "slug": "rehabilitacion-fachadas",
+          "nombre": "Rehabilitación de fachadas",
+          "tags": ["fachada", "edificio", "exterior", "envolvente", "albanil", "arquitecto", "cristalero", "aislamiento"]
+        },
+        {
+          "slug": "cubiertas-e-impermeabilizacion",
+          "nombre": "Cubiertas e impermeabilización",
+          "tags": ["cubierta", "tejado", "filtraciones", "impermeabilizacion", "aislamiento", "antena", "edificio"]
+        },
+        {
+          "slug": "ite-iee-patologias",
+          "nombre": "ITE/IEE y patologías",
+          "tags": ["ite", "iee", "inspeccion", "edificio", "arquitecto", "tecnico", "delineante", "patologia"]
+        },
+        {
+          "slug": "accesibilidad",
+          "nombre": "Accesibilidad en edificios",
+          "tags": ["accesibilidad", "rampa", "ascensor", "edificio", "comunidad", "arquitecto"]
+        },
+        {
+          "slug": "eficiencia-energetica",
+          "nombre": "Eficiencia energética",
+          "tags": ["eficiencia", "energia", "aislamiento", "climatizacion", "aire", "gas", "caldera", "fachada", "envolvente"]
+        }
+      ]
+    },
+    {
+      "id": "construccionnavesindustriales",
+      "brand": "CNI Industrial",
+      "domain": "https://construccionnavesindustriales.es",
+      "servicios": [
+        {
+          "slug": "naves-prefabricadas",
+          "nombre": "Naves prefabricadas de hormigón",
+          "tags": ["nave", "industrial", "hormigon", "obra", "estructura", "arquitecto"]
+        },
+        {
+          "slug": "estructuras-metalicas",
+          "nombre": "Ingeniería de estructuras metálicas",
+          "tags": ["estructura", "metalica", "industrial", "nave", "ingenieria", "calculo", "arquitecto", "tecnico"]
+        },
+        {
+          "slug": "naves-agricolas",
+          "nombre": "Naves agrícolas y agroindustriales",
+          "tags": ["agricola", "ganaderia", "nave", "industrial", "obra", "estructura"]
+        },
+        {
+          "slug": "naves-logisticas",
+          "nombre": "Centros logísticos de alta eficiencia",
+          "tags": ["logistica", "almacen", "nave", "industrial", "alarma", "aire", "domotica"]
+        },
+        {
+          "slug": "naves-frigorificas",
+          "nombre": "Naves frigoríficas y almacén térmico",
+          "tags": ["frigorifico", "termico", "aislamiento", "nave", "industrial", "aire", "climatizacion"]
+        }
+      ]
+    },
+    {
+      "id": "hacemostupiscina",
+      "brand": "Hacemos Tu Piscina",
+      "domain": "https://hacemostupiscina.es",
+      "servicios": [
+        {
+          "slug": "construccion-piscinas",
+          "nombre": "Construcción de piscinas",
+          "tags": ["piscina", "construccion", "obra", "exterior", "albanil", "arquitecto"]
+        },
+        {
+          "slug": "reforma-piscinas",
+          "nombre": "Reforma y rehabilitación de piscinas",
+          "tags": ["piscina", "reforma", "fuga", "pocero", "fontaneria", "alicatado"]
+        },
+        {
+          "slug": "mantenimiento-piscinas",
+          "nombre": "Mantenimiento integral de piscinas",
+          "tags": ["piscina", "mantenimiento", "limpieza"]
+        },
+        {
+          "slug": "piscinas-clima-cubiertas",
+          "nombre": "Climatización y cubiertas de piscina",
+          "tags": ["piscina", "climatizacion", "aire", "cubierta", "domotica"]
+        },
+        {
+          "slug": "cloracion-salina-iluminacion",
+          "nombre": "Electrólisis y tecnología en piscinas",
+          "tags": ["piscina", "domotica", "iluminacion", "electricidad", "led"]
+        }
+      ]
+    },
+    {
+      "id": "reformamosviviendas",
+      "brand": "Reformas de Viviendas",
+      "domain": "https://reformamosviviendas.es",
+      "servicios": [
+        {
+          "slug": "reformas-integrales",
+          "nombre": "Reformas integrales de vivienda",
+          "tags": ["reforma", "integral", "vivienda", "casa", "arquitecto", "decoracion", "armario", "domotica", "electricidad", "fontaneria", "gas"]
+        },
+        {
+          "slug": "reformas-cocinas",
+          "nombre": "Reformas de cocinas",
+          "tags": ["cocina", "reforma", "vivienda", "armario", "gas", "fontaneria", "electricidad", "alicatado"]
+        },
+        {
+          "slug": "reformas-banos",
+          "nombre": "Reformas de baños",
+          "tags": ["bano", "reforma", "vivienda", "fontaneria", "alicatado", "pocero", "gas", "caldera"]
+        },
+        {
+          "slug": "pintura-alisado",
+          "nombre": "Pintura y alisado",
+          "tags": ["pintura", "alisado", "vivienda", "decoracion", "reforma"]
+        },
+        {
+          "slug": "suelos-carpinteria",
+          "nombre": "Suelos y carpintería",
+          "tags": ["suelo", "carpinteria", "armario", "puerta", "vivienda", "reforma", "decoracion"]
+        }
+      ]
+    },
+    {
+      "id": "reformasbanos",
+      "brand": "Reformas Baños",
+      "domain": "https://reformamosbanos.es",
+      "servicios": [
+        {
+          "slug": "reforma-integral-bano",
+          "nombre": "Reforma integral de baño",
+          "tags": ["bano", "reforma", "integral", "vivienda", "fontaneria", "alicatado", "gas"]
+        },
+        {
+          "slug": "cambio-banera-por-ducha",
+          "nombre": "Cambio de bañera por ducha",
+          "tags": ["bano", "ducha", "banera", "fontaneria", "accesibilidad", "cristalero"]
+        },
+        {
+          "slug": "platos-ducha-mamparas",
+          "nombre": "Platos de ducha y mamparas",
+          "tags": ["bano", "ducha", "mampara", "cristalero", "fontaneria"]
+        },
+        {
+          "slug": "fontaneria-griferia",
+          "nombre": "Fontanería y grifería",
+          "tags": ["fontaneria", "griferia", "agua", "bano", "pocero", "gas"]
+        },
+        {
+          "slug": "azulejos-alicatados",
+          "nombre": "Azulejos y alicatados",
+          "tags": ["alicatado", "azulejo", "bano", "cocina", "albanil", "reforma"]
+        }
+      ]
+    },
+    {
+      "id": "reformasoficinas",
+      "brand": "Reformas Oficinas",
+      "domain": "https://reformasoficinas.es",
+      "servicios": [
+        {
+          "slug": "diseno-y-distribucion",
+          "nombre": "Diseño y distribución de oficinas",
+          "tags": ["oficina", "diseno", "distribucion", "arquitecto", "decoracion", "armario"]
+        },
+        {
+          "slug": "mamparas-y-tabiqueria",
+          "nombre": "Mamparas y tabiquería en oficinas",
+          "tags": ["oficina", "mampara", "tabiqueria", "cristalero", "reforma"]
+        },
+        {
+          "slug": "suelos-y-techos",
+          "nombre": "Suelos técnicos y falsos techos",
+          "tags": ["oficina", "suelo", "techo", "tecnico", "instalacion", "domotica"]
+        },
+        {
+          "slug": "instalaciones-y-climatizacion",
+          "nombre": "Instalaciones y climatización en oficinas",
+          "tags": ["oficina", "climatizacion", "aire", "instalacion", "electricidad", "domotica", "alarma", "led"]
+        },
+        {
+          "slug": "reforma-integral",
+          "nombre": "Reforma integral de oficina",
+          "tags": ["oficina", "reforma", "integral", "arquitecto", "decoracion", "domotica", "electricidad"]
+        }
+      ]
+    }
+  ],
+  "provincias": [
+    {"slug":"a-coruna","nombre":"A Coruña"},
+    {"slug":"alava","nombre":"Álava"},
+    {"slug":"albacete","nombre":"Albacete"},
+    {"slug":"alicante","nombre":"Alicante"},
+    {"slug":"almeria","nombre":"Almería"},
+    {"slug":"asturias","nombre":"Asturias"},
+    {"slug":"avila","nombre":"Ávila"},
+    {"slug":"badajoz","nombre":"Badajoz"},
+    {"slug":"baleares","nombre":"Islas Baleares"},
+    {"slug":"barcelona","nombre":"Barcelona"},
+    {"slug":"burgos","nombre":"Burgos"},
+    {"slug":"caceres","nombre":"Cáceres"},
+    {"slug":"cadiz","nombre":"Cádiz"},
+    {"slug":"cantabria","nombre":"Cantabria"},
+    {"slug":"castellon","nombre":"Castellón"},
+    {"slug":"ceuta","nombre":"Ceuta"},
+    {"slug":"ciudad-real","nombre":"Ciudad Real"},
+    {"slug":"cordoba","nombre":"Córdoba"},
+    {"slug":"cuenca","nombre":"Cuenca"},
+    {"slug":"girona","nombre":"Girona"},
+    {"slug":"granada","nombre":"Granada"},
+    {"slug":"guadalajara","nombre":"Guadalajara"},
+    {"slug":"gipuzkoa","nombre":"Gipuzkoa"},
+    {"slug":"huelva","nombre":"Huelva"},
+    {"slug":"huesca","nombre":"Huesca"},
+    {"slug":"jaen","nombre":"Jaén"},
+    {"slug":"la-rioja","nombre":"La Rioja"},
+    {"slug":"las-palmas","nombre":"Las Palmas"},
+    {"slug":"leon","nombre":"León"},
+    {"slug":"lleida","nombre":"Lleida"},
+    {"slug":"lugo","nombre":"Lugo"},
+    {"slug":"madrid","nombre":"Madrid"},
+    {"slug":"malaga","nombre":"Málaga"},
+    {"slug":"melilla","nombre":"Melilla"},
+    {"slug":"murcia","nombre":"Murcia"},
+    {"slug":"navarra","nombre":"Navarra"},
+    {"slug":"ourense","nombre":"Ourense"},
+    {"slug":"palencia","nombre":"Palencia"},
+    {"slug":"pontevedra","nombre":"Pontevedra"},
+    {"slug":"salamanca","nombre":"Salamanca"},
+    {"slug":"santa-cruz-de-tenerife","nombre":"Santa Cruz de Tenerife"},
+    {"slug":"segovia","nombre":"Segovia"},
+    {"slug":"sevilla","nombre":"Sevilla"},
+    {"slug":"soria","nombre":"Soria"},
+    {"slug":"tarragona","nombre":"Tarragona"},
+    {"slug":"teruel","nombre":"Teruel"},
+    {"slug":"toledo","nombre":"Toledo"},
+    {"slug":"valencia","nombre":"Valencia"},
+    {"slug":"valladolid","nombre":"Valladolid"},
+    {"slug":"bizkaia","nombre":"Bizkaia"},
+    {"slug":"zamora","nombre":"Zamora"},
+    {"slug":"zaragoza","nombre":"Zaragoza"}
+  ]
+}

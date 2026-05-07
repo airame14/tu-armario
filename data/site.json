@@ -1,0 +1,191 @@
+{
+  "brand": "TuArmario",
+  "legalName": "TuArmario",
+  "domain": "https://tu-armario.es",
+  "year": "2026",
+  "ctaText": "Pedir presupuesto GRATIS",
+  "ctaAltText": "Ver modelos y precios",
+  "affiliateBaseUrl": "https://tidd.ly/4wbZ9Qh",
+  "professionalFormUrl": "https://formspree.io/f/placeholder",
+  "color": "amber",
+  "satelliteTags": [
+    "armario",
+    "carpinteria",
+    "vestidor",
+    "vivienda",
+    "interiorismo",
+    "decoracion"
+  ],
+  "seo": {
+    "homeTitle": "Armarios y vestidores a medida en España | Presupuesto GRATIS (2026)",
+    "homeDescription": "Carpinteros y empresas de armarios a medida: empotrados, vestidores, librerías y mobiliario funcional. Presupuesto sin compromiso."
+  },
+  "utm": {
+    "source": "tu-armario",
+    "medium": "seo",
+    "campaign": "provincias"
+  },
+  "copy": {
+    "homeMetaTitle": "Armarios y vestidores a medida en España | Presupuesto GRATIS (2026)",
+    "homeMetaDescription": "Carpinteros profesionales para armarios empotrados, vestidores, librerías y mobiliario a medida. Presupuesto sin compromiso.",
+    "heroEyebrow": "Carpinteros disponibles 2026",
+    "heroH1Lead": "Tu Armario",
+    "heroH1Highlight": "a Medida",
+    "heroDescription": "Armarios empotrados, vestidores, puertas correderas, librerías y mobiliario a medida para tu hogar u oficina.",
+    "stats": [
+      {
+        "value": "6.000+",
+        "label": "Armarios entregados"
+      },
+      {
+        "value": "3 sem",
+        "label": "Plazo medio"
+      },
+      {
+        "value": "10 años",
+        "label": "Garantía mobiliario"
+      }
+    ],
+    "stepsTitle": "Del hueco al armario perfecto",
+    "steps": [
+      {
+        "title": "1. Toma de medidas gratuita",
+        "desc": "El carpintero acude a tu casa para medir."
+      },
+      {
+        "title": "2. Diseño 3D y propuesta",
+        "desc": "Recibes render del armario antes de fabricar."
+      },
+      {
+        "title": "3. Fabricación y montaje",
+        "desc": "Fabricación en taller y montaje en tu casa."
+      }
+    ],
+    "ventajasTitle": "Mobiliario hecho a tu medida",
+    "ventajas": [
+      "Carpinteros con taller propio",
+      "Diseño 3D antes de fabricar",
+      "Herrajes alemanes garantizados",
+      "Garantía mínima de 5 años"
+    ],
+    "complementaryHomeHeading": "Si tu vivienda necesita reforma",
+    "complementaryHomeDescription": "Antes de hacer un vestidor a medida, conviene resolver pintura, suelo o tabiquería.",
+    "testimonials": [
+      {
+        "quote": "El armario aprovecha cada centímetro, espectacular.",
+        "author": "Cristina V., Madrid"
+      },
+      {
+        "quote": "Vestidor 3D y resultado idéntico al diseño.",
+        "author": "Pablo R., Granada"
+      },
+      {
+        "quote": "La cocina nueva nos ha cambiado la vida.",
+        "author": "Belén F., Vitoria"
+      }
+    ],
+    "carouselSlides": [
+      {
+        "src": "/building-hero.webp",
+        "alt": "Armario empotrado en habitación",
+        "title": "Empotrados a medida",
+        "description": "Aprovecha cada hueco"
+      },
+      {
+        "src": "/hero-province.webp",
+        "alt": "Vestidor con iluminación LED",
+        "title": "Vestidores",
+        "description": "Diseño 3D previo"
+      },
+      {
+        "src": "/hero-service.webp",
+        "alt": "Armario con puerta corredera",
+        "title": "Puertas correderas",
+        "description": "Sin espacio de apertura"
+      },
+      {
+        "src": "/project-facade-clean.webp",
+        "alt": "Librería de salón a medida",
+        "title": "Mobiliario de salón",
+        "description": "Diseño único"
+      },
+      {
+        "src": "/hero-province-alt.webp",
+        "alt": "Cocina con muebles a medida",
+        "title": "Cocinas a medida",
+        "description": "Herrajes premium"
+      }
+    ],
+    "provinciaEyebrow": "Carpinteros en",
+    "provinciaH1Lead": "Armarios y vestidores a medida en",
+    "provinciaDescription": "Carpinteros y empresas de armarios a medida con taller propio, herrajes premium y garantía por escrito.",
+    "provinciaTipsTitle": "Cómo elegir tu carpintero",
+    "provinciaTipsLead": "Lo barato sale caro: lo importante son los herrajes y la calidad del tablero.",
+    "provinciaTips": [
+      {
+        "title": "Pide muestras de materiales",
+        "desc": "Tablero hidrófugo y herrajes con marca."
+      },
+      {
+        "title": "Render 3D antes de fabricar",
+        "desc": "Evita sorpresas en el resultado final."
+      },
+      {
+        "title": "Garantía mínima 5 años",
+        "desc": "Lo que dura un armario bueno."
+      }
+    ],
+    "complementaryProvinciaEyebrow": "Servicios complementarios",
+    "complementaryProvinciaTitle": "Si tu reforma va más allá del armario",
+    "complementaryProvinciaDescription": "Una reforma integral antes del armario suele dar mejor resultado y orden de trabajo.",
+    "servicioBeneficiosTitle": "¿Por qué contratar a un carpintero?",
+    "servicioBeneficiosLead": "Un armario a medida bien hecho dura décadas y se nota en el día a día.",
+    "servicioPasosTitle": "Cómo se desarrolla un encargo",
+    "servicioPasos": [
+      "Visita y toma de medidas en casa.",
+      "Diseño 3D con materiales y herrajes.",
+      "Aprobación y señal del 50%.",
+      "Fabricación en taller propio.",
+      "Montaje en obra y entrega final."
+    ],
+    "servicioChecklistTitle": "Lo que debes recibir",
+    "servicioChecklist": [
+      "Plano y render 3D firmado",
+      "Especificación de materiales",
+      "Garantía mínima 5 años",
+      "Factura desglosada",
+      "Mantenimiento recomendado"
+    ],
+    "servicioCtaSubtitle": "Recibe propuestas de carpinteros con cartera de proyectos.",
+    "footerTagline": "Conectamos propietarios con carpinteros profesionales para armarios, vestidores y mobiliario a medida.",
+    "footerBadge": "Carpinteros con taller propio",
+    "colaboradoresHeroTitle": "Únete a nuestra red de carpinteros",
+    "colaboradoresHeroDescription": "Buscamos carpinteros con taller propio o capacidad de fabricación para armarios y mobiliario a medida.",
+    "colaboradoresFeatures": [
+      {
+        "name": "Encargos verificados",
+        "description": "Filtramos por dimensiones y plazos."
+      },
+      {
+        "name": "Sin cuotas",
+        "description": "Cobras por proyecto cerrado."
+      },
+      {
+        "name": "Cliente con medidas",
+        "description": "Llega con espacio definido."
+      },
+      {
+        "name": "Exclusividad de zona",
+        "description": "Pocos colaboradores por provincia."
+      }
+    ],
+    "colaboradoresFormCategories": [
+      "Carpintero/a",
+      "Empresa de armarios a medida",
+      "Cocinas y mobiliario",
+      "Vestidores",
+      "Mobiliario contract",
+      "Otros"
+    ]
+  }
+}

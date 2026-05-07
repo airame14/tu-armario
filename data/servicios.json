@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "armarios-empotrados",
+    "nombre": "Armarios empotrados a medida",
+    "intro": "Armarios a medida para dormitorios, recibidores y huecos difíciles. Múltiples acabados y configuraciones interiores.",
+    "beneficios": [
+      "Aprovechamiento total del hueco",
+      "Interior personalizado",
+      "Acabados a elegir"
+    ],
+    "tags": [
+      "armario",
+      "vivienda",
+      "carpinteria"
+    ],
+    "ctaLabel": "Cotizar empotrado"
+  },
+  {
+    "slug": "vestidores-medida",
+    "nombre": "Vestidores a medida",
+    "intro": "Vestidores abiertos o cerrados con módulos modulares: cajoneras, baldas, barras y zapateros.",
+    "beneficios": [
+      "Diseño 3D previo",
+      "Iluminación LED integrada",
+      "Accesorios premium"
+    ],
+    "tags": [
+      "armario",
+      "vestidor",
+      "vivienda"
+    ],
+    "ctaLabel": "Diseñar vestidor"
+  },
+  {
+    "slug": "armarios-puertas-correderas",
+    "nombre": "Armarios con puertas correderas",
+    "intro": "Armarios con puertas correderas para optimizar espacio en habitaciones pequeñas o pasillos.",
+    "beneficios": [
+      "Sin espacio de apertura",
+      "Mecanismos suaves",
+      "Cualquier acabado"
+    ],
+    "tags": [
+      "armario",
+      "puerta",
+      "vivienda"
+    ],
+    "ctaLabel": "Pedir corredera"
+  },
+  {
+    "slug": "muebles-salon",
+    "nombre": "Muebles de salón a medida",
+    "intro": "Librerías, muebles para TV, estanterías murales y mobiliario integrado para salones únicos.",
+    "beneficios": [
+      "Diseño personalizado",
+      "Iluminación LED",
+      "Cableado oculto"
+    ],
+    "tags": [
+      "armario",
+      "salon",
+      "vivienda"
+    ],
+    "ctaLabel": "Diseñar mueble"
+  },
+  {
+    "slug": "muebles-cocina",
+    "nombre": "Muebles de cocina a medida",
+    "intro": "Mobiliario de cocina con frentes lacados, melamina o madera y herrajes de marca alemana.",
+    "beneficios": [
+      "Cualquier configuración",
+      "Herrajes Blum/Hettich",
+      "Encimera incluida"
+    ],
+    "tags": [
+      "armario",
+      "cocina",
+      "vivienda"
+    ],
+    "ctaLabel": "Cotizar cocina"
+  },
+  {
+    "slug": "armarios-comerciales-oficina",
+    "nombre": "Armarios para oficinas y comercios",
+    "intro": "Mobiliario funcional a medida para oficinas, locales comerciales y espacios de trabajo.",
+    "beneficios": [
+      "Diseño contract",
+      "Acabados duraderos",
+      "Cumplimiento PRL"
+    ],
+    "tags": [
+      "armario",
+      "oficina",
+      "comercio"
+    ],
+    "ctaLabel": "Cotizar comercial"
+  }
+]

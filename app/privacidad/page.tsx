@@ -27,8 +27,8 @@ export default function PrivacidadPage() {
                             El responsable del tratamiento de los datos recogidos en este sitio web es:
                         </p>
                         <ul className="list-none space-y-2 text-slate-600 bg-white rounded-xl p-6 border border-slate-200">
-                            <li><strong>Entidad:</strong> [NOMBRE DE LA EMPRESA]</li>
-                            <li><strong>Dirección:</strong> [DIRECCIÓN DE LA EMPRESA]</li>
+                            <li><strong>Entidad:</strong> OPHARANA LLC</li>
+                            <li><strong>Dirección:</strong> 99 Wall Street, Suite 1432, 10005 New York, USA</li>
                             <li><strong>Sitio web:</strong> {site.domain}</li>
                         </ul>
                     </section>

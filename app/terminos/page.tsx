@@ -24,8 +24,8 @@ export default function TerminosPage() {
                     <section className="mb-8">
                         <h2 className="text-xl font-semibold text-slate-900 mb-4">1. Identificación del titular</h2>
                         <ul className="list-none space-y-2 text-slate-600 bg-white rounded-xl p-6 border border-slate-200">
-                            <li><strong>Entidad:</strong> [NOMBRE DE LA EMPRESA]</li>
-                            <li><strong>Dirección:</strong> [DIRECCIÓN DE LA EMPRESA]</li>
+                            <li><strong>Entidad:</strong> OPHARANA LLC</li>
+                            <li><strong>Dirección:</strong> 99 Wall Street, Suite 1432, 10005 New York, USA</li>
                             <li><strong>Sitio web:</strong> {site.domain}</li>
                         </ul>
                     </section>
@@ -74,7 +74,7 @@ export default function TerminosPage() {
                         <h2 className="text-xl font-semibold text-slate-900 mb-4">5. Propiedad intelectual</h2>
                         <p className="text-slate-600">
                             Todos los contenidos del sitio web (textos, imágenes, diseño, código) son propiedad de
-                            [NOMBRE DE LA EMPRESA] o se utilizan con licencia. Queda prohibida su reproducción sin autorización expresa.
+                            OPHARANA LLC o se utilizan con licencia. Queda prohibida su reproducción sin autorización expresa.
                         </p>
                     </section>
 

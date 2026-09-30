@@ -27,8 +27,8 @@ export default function AvisoLegalPage() {
                             En cumplimiento con el deber de información, se facilitan los siguientes datos del titular:
                         </p>
                         <ul className="list-none space-y-2 text-slate-600 bg-white rounded-xl p-6 border border-slate-200">
-                            <li><strong>Denominación social:</strong> OPHARANA LLC</li>
-                            <li><strong>Domicilio:</strong> 99 Wall Street, Suite 1432, 10005 New York, USA</li>
+                            <li><strong>Denominación social:</strong> [NOMBRE DE LA EMPRESA]</li>
+                            <li><strong>Domicilio:</strong> [DIRECCIÓN DE LA EMPRESA]</li>
                             <li><strong>Nombre comercial:</strong> {site.brand}</li>
                             <li><strong>Sitio web:</strong> {site.domain}</li>
                         </ul>
@@ -75,7 +75,7 @@ export default function AvisoLegalPage() {
                         <h2 className="text-xl font-semibold text-slate-900 mb-4">5. Propiedad intelectual e industrial</h2>
                         <p className="text-slate-600">
                             Todos los contenidos del sitio web (textos, imágenes, logotipos, código fuente, diseño gráfico)
-                            son propiedad de OPHARANA LLC o se utilizan bajo licencia. Queda prohibida su reproducción,
+                            son propiedad de [NOMBRE DE LA EMPRESA] o se utilizan bajo licencia. Queda prohibida su reproducción,
                             distribución o transformación sin autorización expresa.
                         </p>
                     </section>

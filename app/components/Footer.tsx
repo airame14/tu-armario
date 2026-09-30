@@ -94,8 +94,8 @@ export default function Footer() {
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
             <div className="text-center md:text-left">
               <p className="text-sm text-slate-400">© {currentYear} {site.brand}. Todos los derechos reservados.</p>
-              <p className="mt-1 text-xs text-slate-500">Operado por <strong className="text-slate-400">OPHARANA LLC</strong></p>
-              <p className="text-xs text-slate-500">99 Wall Street, Suite 1432 · 10005 New York, USA</p>
+              <p className="mt-1 text-xs text-slate-500">Operado por <strong className="text-slate-400">[NOMBRE DE LA EMPRESA]</strong></p>
+              <p className="text-xs text-slate-500">[DIRECCIÓN DE LA EMPRESA]</p>
             </div>
 
             <div className="flex items-center gap-4">

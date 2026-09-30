@@ -87,8 +87,8 @@ export default function CookiesPage() {
                     <section className="mb-8">
                         <h2 className="text-xl font-semibold text-slate-900 mb-4">5. Contacto</h2>
                         <ul className="list-none space-y-2 text-slate-600 bg-white rounded-xl p-6 border border-slate-200">
-                            <li><strong>Entidad:</strong> OPHARANA LLC</li>
-                            <li><strong>Dirección:</strong> 99 Wall Street, Suite 1432, 10005 New York, USA</li>
+                            <li><strong>Entidad:</strong> [NOMBRE DE LA EMPRESA]</li>
+                            <li><strong>Dirección:</strong> [DIRECCIÓN DE LA EMPRESA]</li>
                         </ul>
                     </section>
                 </div>
